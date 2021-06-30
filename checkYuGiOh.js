@@ -42,4 +42,4 @@ function checkYuGiOh(n){
     }
       
 }
-console.log(checkYuGiOh())
+console.log(checkYuGiOh(10))
